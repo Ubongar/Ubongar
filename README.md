@@ -1,55 +1,105 @@
 <h1 align="center">Hi 👋, I'm Archie Michael Ubong</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h3 align="center">🚀 Fullstack Developer & AI Enthusiast from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubongar&label=Profile%20views&color=0e75b6&style=flat" alt="ubongar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubongar" alt="ubongar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/atrextubo" target="blank"><img src="https://img.shields.io/twitter/follow/atrextubo?logo=twitter&style=for-the-badge" alt="atrextubo" /></a> </p>
-
-- 🔭 I’m currently working on [chirp-clone-journey](https://github.com/Ubongar/chirp-clone-journey)
-
-- 🌱 I’m currently learning **Python, AI, ML**
-
-- 👯 I’m looking to collaborate on [SEO rank](https://github.com/Ubongar/finflow-horizon-view)
-
-- 🤝 I’m looking for help with [student Management System](https://github.com/Ubongar/UMIS-1)
-
-- 📝 I regularly write articles on [https://medium.com/@atrextubo](https://medium.com/@atrextubo)
-
-- 💬 Ask me about **vite + react TS, java (SpringBoot), Supabase**
-
-- 📫 How to reach me **mikeerap14@gmail.com**
-
-- ⚡ Fun fact **Could be the next steve jobs btw**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ubongar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ubongar" height="30" width="40" /></a>
-<a href="https://dev.to/ubongar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ubongar" height="30" width="40" /></a>
-<a href="https://twitter.com/atrextubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atrextubo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/michael-archie-4129011a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-archie-4129011a7" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/archie ubong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="archie ubong" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ubongar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ubongar" height="30" width="40" /></a>
-<a href="https://kaggle.com/archieubong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="archieubong" height="30" width="40" /></a>
-<a href="https://instagram.com/atrextubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atrextubo" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ubongar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ubongar" height="30" width="40" /></a>
-<a href="https://medium.com/@atrextubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atrextubo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ubongar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ubongar7" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tower_card_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tower_card_11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ubongar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ubongar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/(<mikeered1d>/profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<mikeered1d>/profile)" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/ubongar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ubongar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ubongar&label=Profile%20views&color=0e75b6&style=flat" alt="ubongar" />
+  <a href="https://twitter.com/atrextubo" target="blank"><img src="https://img.shields.io/twitter/follow/atrextubo?logo=twitter&style=flat&color=1DA1F2" alt="atrextubo" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  Creating scalable web applications, mobile solutions, and exploring the depths of Machine Learning.
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ubongar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ubongar" /></a><a href="https://ko-fi.com/ubongar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ubongar" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubongar&show_icons=true&locale=en&layout=compact" alt="ubongar" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubongar&show_icons=true&locale=en" alt="ubongar" /></p>
+- 🔭 I’m currently building **[campus-courier](https://github.com/Ubongar/campus-courier)** - A logistics delivery system.
+- 📱 I recently launched **[first-mobile-app](https://github.com/Ubongar/first-mobile-app)** using React Native & Expo.
+- 🌱 I’m currently deepening my knowledge in **Python, Unsupervised Learning, and AI Agents**.
+- 👯 I’m looking to collaborate on **[chirp-clone-journey](https://github.com/Ubongar/chirp-clone-journey)**.
+- 💬 Ask me about **Vite + React TS, Java (SpringBoot), Supabase, and Mobile Dev**.
+- 📫 Reach me at **mikeerap14@gmail.com**
+- ⚡ Fun fact: **Coding my way to be the next tech visionary.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubongar&" alt="ubongar" /></p>
+---
+
+### 🛠️ Languages and Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><strong>Frontend & Mobile</strong></td>
+    <td align="center" width="90"><strong>Backend</strong></td>
+    <td align="center" width="90"><strong>AI & Data</strong></td>
+    <td align="center" width="90"><strong>Database</strong></td>
+    <td align="center" width="90"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/></a>
+      <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="reactnative"/></a>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript"/></a>
+      <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind"/></a>
+      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/></a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs"/></a>
+      <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express"/></a>
+      <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="spring"/></a>
+      <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/></a>
+      <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/></a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="pytorch"/></a>
+      <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/></a>
+      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/></a>
+      <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="seaborn"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql"/></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/></a>
+      <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" alt="mariadb"/></a>
+      <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="sqlite"/></a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/></a>
+      <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/></a>
+      <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/></a>
+      <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman"/></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubongar&theme=dark&hide_border=true" alt="ubongar" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ubongar&show_icons=true&locale=en&theme=dark&hide_border=true" alt="ubongar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubongar&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="ubongar" />
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubongar&theme=flat&no-frame=true&margin-w=4" alt="ubongar" /></a>
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+<a href="https://linkedin.com/in/michael-archie-4129011a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-archie" height="30" width="40" /></a>
+<a href="https://twitter.com/atrextubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atrextubo" height="30" width="40" /></a>
+<a href="https://medium.com/@atrextubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atrextubo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/archie ubong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="archie ubong" height="30" width="40" /></a>
+<a href="https://instagram.com/atrextubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atrextubo" height="30" width="40" /></a>
+<a href="https://dev.to/ubongar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ubongar" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Support My Work</h3>
+<p align="center">
+<a href="https://www.buymeacoffee.com/ubongar"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ubongar" /></a>
+</p>
