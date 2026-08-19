@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archie Michael Ubong</h1>
-<h3 align="center">🚀 Backend-Focused Software Engineer | Fullstack & ML Enthusiast from Nigeria</h3>
+<h3 align="center">🚀 Backend-Focused Software Engineer | AI/ML & Fullstack Enthusiast from Nigeria</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ubongar&label=Profile%20views&color=0e75b6&style=flat" alt="ubongar" />
@@ -7,19 +7,25 @@
 </p>
 
 <p align="center"> 
-  Less talk, more deploys. Backend systems, geospatial ML, and the occasional 2am bug fix.
+  Less talk, more deploys. Backend systems, geospatial ML, AI agents, and the occasional 2am bug fix.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently building **IOPHIN** (Integrated Open Poverty Hotspot Intelligence Network) — a full-stack geospatial ML platform covering all 774 Nigerian LGAs.
-- 💼 Systems Architect at **Shadow Devs/SCSIC**, previously Software Engineer at **TheSpark Digital Media** and Backend Engineer at **Veskee**.
-- 🌱 Deepening my knowledge in **system design, ML for geospatial data (HDBSCAN, XGBoost, Prophet), and AWS infrastructure**.
-- 💪 Strongest in **backend engineering** — Node.js, Django, FastAPI, PostgreSQL, Docker, AWS — with React on the frontend.
-- 👯 Open to backend/fullstack contractor roles and collaboration on ML-driven products.
-- 💬 Ask me about **Node.js, Django, FastAPI, PostgreSQL, Docker, AWS, and applied ML**.
+- 🎓 B.Sc. (Hons) Software Engineering graduate, Babcock University (Second Class Honours, Upper Division, GPA 4.39/5.0).
+- 💼 AI Engineer (Graduate Intern) at **Technocrat IT**, building multi agent LLM systems for enterprise clients using LangChain/LangGraph.
+- 🏛️ Also Systems Architect at **Shadow Devs/SCSIC**, previously Software Engineer at **TheSpark Digital Media** and Backend Engineer at **Veskee**.
+- ✅ Graduate Member (GMCPN) of the Computer Professionals Registration Council of Nigeria.
+- 🔭 Maintaining **IOPHIN** (Integrated Open Poverty Hotspot Intelligence Network), my flagship full-stack geospatial ML platform covering all 774 Nigerian LGAs.
+- 👀 Actively open to backend, full-stack, and ML engineering roles, remote or Lagos based.
+- 🌱 Deepening my knowledge in multi-agent AI systems, LLM tooling, system design, and cloud infrastructure.
+- 💪 Strongest in **backend engineering** — Node.js, Django, FastAPI, PostgreSQL, Docker, AWS — with React on the frontend and applied ML on the side.
+- 🏆 Leadership: Project Lead for Project SIWES (BUCC), Head of Volunteers at Babcock Tech Week, Head of Technical Unit at the AI & BIV Commercialization Summit 2026, and Academic Tutor at BUCC (2023–2026) teaching DSA, Python, Discrete Math, and Formal Methods.
+- 📜 Certifications: Kaggle (Pandas for Data Analysis, Intro to Machine Learning), Udemy (The Complete Python Developer), Microsoft Office Specialist (Word, PowerPoint).
+- 💬 Ask me about **Node.js, Django, FastAPI, PostgreSQL, Docker, AWS, LangChain, and applied ML**.
+- 🌐 Portfolio: **[michael-archie-s-portfolio.vercel.app](https://michael-archie-s-portfolio.vercel.app)**
 - 📫 Reach me at **mikeerap14@gmail.com**
 
 ---
@@ -49,16 +55,16 @@
       <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind"/></a>
     </td>
     <td align="center">
+      <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/langchain-icon.svg" width="40" height="40" alt="langchain"/></a>
       <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn"/></a>
       <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/></a>
       <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/></a>
-      <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="seaborn"/></a>
     </td>
     <td align="center">
       <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql"/></a>
       <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="redis"/></a>
       <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/></a>
-      <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="sqlite"/></a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" alt="sqlserver"/></a>
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws"/></a>
@@ -72,7 +78,7 @@
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
 
 **[IOPHIN — Integrated Open Poverty Hotspot Intelligence Network](https://github.com/Ubongar)**
 A full-stack geospatial ML platform analyzing poverty hotspots across all 774 Nigerian LGAs.
@@ -81,6 +87,18 @@ A full-stack geospatial ML platform analyzing poverty hotspots across all 774 Ni
 - 🚀 7× speedup via Redis caching
 - 🔥 1.8s p95 response time at 100 concurrent users
 - 💾 153.5 MB peak heap usage
+
+**AetherDB**
+Natural language to SQL tool powered by Gemini 2.5 Pro.
+
+**PrepPal**
+Next.js study companion app, co-built at Shadow Devs.
+
+**Campus Food Delivery System**
+Live food ordering and delivery platform for campus use.
+
+**Blockchain Certificate Verification System**
+Certificate issuance and verification backed by blockchain.
 
 ---
 
@@ -102,6 +120,7 @@ A full-stack geospatial ML platform analyzing poverty hotspots across all 774 Ni
 ### 🤝 Connect with me
 
 <p align="center">
+<a href="https://michael-archie-s-portfolio.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael-archie-4129011a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-archie" height="30" width="40" /></a>
 <a href="https://twitter.com/atrextubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atrextubo" height="30" width="40" /></a>
 <a href="https://medium.com/@atrextubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atrextubo" height="30" width="40" /></a>
